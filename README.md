@@ -9,4 +9,7 @@ Don't know. Anywhere really. Work, home, vacation resort. Just be wise about it.
 ## When could I?
 When running any captive VPN, after the connection has been established of course.
 ## Why would I?
-Because you can. Because you want to be able to watch Youtube or play games while connected to your work computer to multi-task. Couldn't say for sure. There may be moral or ehtical issues with this.
+Because you can. Because you want to be able to watch Youtube or play games while connected to your work computer to multi-task. Couldn't say for sure. There may be moral or ehtical issues with this.  
+  
+## Usage
+Download .ps1, open powershell as Admin, run with .\EscapeVPN.ps1
